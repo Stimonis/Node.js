@@ -1,0 +1,19 @@
+Installer un module en local :
+
+Quand on commence un nveau projet :
+
+1. npm init
+2. npm install nodemon
+3. réécrire la commande start dans le fichier package.json
+   "start": "nodemon server.js"
+4.npm start
+
+
+Installer un module en global :
+
+npm install markdown -global
+
+
+Mettre à jour les modules :
+
+npm update
